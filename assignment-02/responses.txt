@@ -1,0 +1,21 @@
+//How is the world wide web different than the internet? Briefly describe how the internet works.
+  The world wide web is different than the internet because the internet is a global system of interconnected computer networks (hardware),
+  governed by the Internet Protocol (TCP/IP). While the world wide web is a set of software services that run on the Internet and basically being a collection of web pages
+  that connect through links and URLs. The internet works by connecting points on the internet consist of individual computers, such as your laptop, 
+   ISP’s, Routers that help direct traffic, and Servers that hold and process all of the data (sort like a connected spider web
+  which is probably where the confusion lyes).  
+
+//What is a directory, and what is its relationship to files?
+A directory is a way to organize files which we can use either through Github.com or the desktop app for your computer. This allows us to keep our file on our PC or Mac until we want to share our files/Projects with others, sometimes it can be seen as a portfolilo or an invenation for help/second opinions. 
+
+//How will VCS benefit you?
+  With a VCS, everybody on the team is able to work absolutely freely on any file at any time. Allowing us, as a class, conmumicate and express our ideas as if we were
+  working in a computer lab. 
+  
+//Take a screenshot anytime while working on your homework.
+
+//What is your favorite kind of art?
+I don't really have a favorite type of art because I appricate various styles from different types of Media. There are very few things I don't consider to be art, for example 
+abstract painting or some types of performance "art" because one I consider to be a techquie to excel in the arts. While the other is a method of expression ranther like theater or ballet, entertainment but not art. 
+
+//Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
