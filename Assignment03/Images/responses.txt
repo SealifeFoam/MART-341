@@ -1,1 +1,14 @@
-That's some text 
+That's some text
+Provide three websites that you enjoy visiting?
+https://www.thisiscolossal.com/
+https://hifructose.com/
+https://www.webtoons.com/
+
+What is the relationship between an IP address and the DNS?
+The relationship between an IP address and the DNS is that the DNS translates domain names to IP addresses so browsers can load Internet resources. Meaning our DNS gives directions for the IP for our computer to bring up what we want.
+
+What is a cookie?
+The cookies are small files, often including unique identifiers that web servers send to browsers. These cookies then can be sent back to the server each time your browser requests a new page. It's how a website will remember you and your preferences online.
+
+List the three essential parts of a URL.
+The three essential parts of a URL are the protocal, the domain and paths. The protocal is how the web browser communicates with the web server, while the domain allows you own your site name. And the paths give instructions on how to navigate directoriess, parents and subdirectories within them. 
