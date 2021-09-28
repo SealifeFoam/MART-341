@@ -1,0 +1,3 @@
+1. I checked out what Behance looked like back in 2011. By comparison to the present look Behance appears quite different than when it did back in 2011. It appears more stiff and descriptive than the present's. You can give the lack of varity to the time period and technology at the time. 
+2. The last few lessons were sort of review for me because I had taken Creative Coding 1 before this class. Although its review, I still have trouble with embedding images and hyperlinks. Mainly due to me using / instead of a \. 
+3. <imag src="Assignment05\Images\Screenshot 2021-09-28 113521.png ">
