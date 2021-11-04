@@ -1,0 +1,41 @@
+body{
+    font-family:monospace;
+    background-color:#15173D; 
+}
+
+h1 {
+        position: relative;
+        left: 20px;
+        top:5px;
+        color: #D1AD70;
+        opacity: 1;
+        font-size: 40px;
+}
+h2 {
+    position: relative;
+    left: 20px;
+    top:5px;
+    color: #D1AD70;
+    opacity: .75;
+    
+
+}
+
+p, ul {
+    color:#87CCB0
+    
+}
+
+div.align{
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+
+
