@@ -1,0 +1,139 @@
+
+
+h1{
+color:whitesmoke;
+text-align: center;
+position:relative;
+font-size:1in;
+font-weight: lighter;
+font-family: 'Satisfy', cursive;
+overflow:hidden;
+
+}
+
+body {
+background-color: #000000 ;
+margin: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    align-items: center;
+}
+
+#containerW
+{
+    height:20px;    
+}
+
+#containerW DIV
+{ 
+    margin:50px; 
+    padding:50px; 
+    background-color:rgb(0, 0, 0); 
+}
+
+
+nav {
+display: block; 
+padding: 9px;
+font-size: .4in;
+font-family: 'Satisfy', cursive;
+}
+
+
+
+a {
+    
+    color: #fff8f8;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+ a:hover {
+    background-color:  #003367;
+    padding-inline: 4px;
+    
+  }
+  
+  .dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    
+    margin: 0;
+    color: rgb(255, 255, 255);
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #ffffff;
+    background-color:  #003367;
+}
+
+
+
+
+
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
+  
+.parallax {
+    /* The image used */
+    background-image: url("Images/hole-8.png");
+  
+    /* Set a specific height */
+    min-height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /*Form*/
+  #new_div_3 {
+    width:100%;
+    display:block;
+    margin:auto;
+}
+
+/*word fade in*/
+
