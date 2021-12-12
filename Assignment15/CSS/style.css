@@ -1,0 +1,40 @@
+body{
+   
+     background-color:#E2c2b3;
+}
+
+ h1, h2{
+    color:#687477;
+    text-align: center;
+    font-family:'Quicksand', sans-serif; 
+}
+
+.container {
+    background-color: #f7f3f5;
+    width: 500px;
+    margin: auto;
+    padding: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    align-items: center;
+    text-align: center;
+}
+
+.container2 {
+    background:#f7f3f5;
+    border-color: #403234;
+    border-style:dashed ;
+    width: 420px;
+    margin: auto;
+    padding: 12px;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+  
+
+
+
+ /*For Gallery*/
+
+ 

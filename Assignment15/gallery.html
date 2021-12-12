@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8"> <!--Meta Tags-->
+    <meta name="description" content="Final">
+    <meta name="author" content="Sydney B.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Gallery</title> <!--Tab title-->
+
+    <link rel="stylesheet" type="text/css" href="./CSS/style.css" />
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+        body {
+            font-family: 'Quicksand', sans-serif;
+            transition: background-color .5s;
+            background-image: url("media/Images/Pageend-8.png");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-blend-mode:overlay; 
+  margin: auto;
+          }
+          
+          .sidenav {
+          height: 100%;
+          width: 0;
+          position: fixed;
+          z-index: 1;
+          top: 0;
+          left: 0;
+          background-color: #403234;
+          overflow-x: hidden;
+          transition: 0.5s;
+          padding-top: 60px;
+        }
+        
+        .sidenav a {
+          padding: 8px 8px 8px 32px;
+          text-decoration: none;
+          font-size: 25px;
+          color: #818181;
+          display: block;
+          transition: 0.3s;
+        }
+        
+        .sidenav a:hover {
+          color: #f1f1f1;
+        }
+        
+        .sidenav .closebtn {
+          position: absolute;
+          top: 0;
+          right: 25px;
+          font-size: 36px;
+          margin-left: 50px;
+        }
+        
+        #main {
+          transition: margin-left .5s;
+          padding: 16px;
+        }
+        
+        @media screen and (max-height: 450px) {
+          .sidenav {padding-top: 15px;}
+          .sidenav a {font-size: 18px;}
+        }
+          </style>
+
+
+</head> 
+
+<body>
+   <!--Navigation bar--> 
+   <div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="./index.html">Main</a> 
+    <a href="./about.html">About</a>
+    <a href="./contact.html">Contact</a>
+  </div>
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+
+  <div id="main">
+    <h1>Gallery</h1>
+
+    <div class="container2">
+    <a href="./VI.html"><img src="./media/Images/Asset 6.png" height="200px"></a>
+    </br> Vector Illustrations</div>
+</br> 
+    <div class="container2">
+    <a href="./DDI.html"><img src="./media/Images/Chocolate Strawberry's.jpg" height="200px"></a>
+</br>Digitally Drawn Illustraions</div>
+</br>
+    <div class="container2">
+    <a href=""><img src="./media/Videos/Things I do and don't know.gif" height="200px"></a>
+</br> Comming Soon - Videos and Gifs</div>
+</div>
+
+    <script>
+        function openNav() {
+          document.getElementById("mySidenav").style.width = "250px";
+          document.getElementById("main").style.marginLeft = "250px";
+          document.body.style.backgroundColor = "rgba(0,0,0,0.7)";
+        }
+        
+        function closeNav() {
+          document.getElementById("mySidenav").style.width = "0";
+          document.getElementById("main").style.marginLeft= "0";
+          document.body.style.backgroundColor = "#E2c2b3";
+        }
+        </script>
+</body>
+</html>
